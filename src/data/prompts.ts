@@ -1019,20 +1019,7 @@ export const categories: Category[] = [
     ],
   },
 
-  // ─── Category 17: 아카라이브 ───
-  {
-    id: "akalive",
-    title: "아카라이브",
-    sections: [
-      {
-        title: "아카라이브",
-        prompts: [],
-        images: [],
-      },
-    ],
-  },
-
-  // ─── Category 18: 기타 ───
+  // ─── Category 17: 기타 ───
   {
     id: "etc",
     title: "기타",
